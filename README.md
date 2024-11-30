@@ -34,15 +34,6 @@
 
 ---
 
-## 📸 Preview
-### Desktop Mode
-![Learn-E Desktop Preview](#)
-
-### Tablet Mode
-![Learn-E Tablet Preview](#)
-
----
-
 ## 🔗 Links
 - [Learn-E Figma Design](#) (Add the file link if hosted online)
 - [Figma Website]([https://www.figma.com](https://www.figma.com/proto/h0T1wGqqFfXrThREYyhui2/Learn-E?node-id=0-1&t=AzhCac8dDPhgVsHb-1))
